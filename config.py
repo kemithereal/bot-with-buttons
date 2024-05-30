@@ -1,1 +1,1 @@
-BOT_TOKEN = "942352703:AAHezudMmJq-x6JiVMtZ_NywAc1c6wWAZoE"  # Your token
+BOT_TOKEN = "7346189756:AAEY31YC4wjYNWtTtad1QJYDdbXTG3-VczI"  # Your token
